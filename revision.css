@@ -1,0 +1,24 @@
+html{
+    padding:100px;
+    margin:150px;
+    
+}
+div{
+    width:250px;
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    text-align: center;
+    padding: 3px;
+}
+
+#apple-shelf{
+    background-color: pink;
+    
+    
+
+}
+#orange-shelf{
+    background-color: orange;
+}

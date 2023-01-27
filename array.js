@@ -12,5 +12,21 @@ console.log(cards);
 // console.log(flooredNumber);
 
 
-let randomnumber=Math.floor(Math.random()*6);
-console.log(randomnumber);
+
+
+
+// function rollDice(){
+//     let randomnumber=Math.floor(Math.random()*6)+1;
+//     return randomnumber;
+// }
+// console.log(rollDice());
+
+
+let hasSolvedChallenge=false;
+let hasHintsLeft=false;
+if(hasSolvedChallenge===false || hasHintsLeft===false){
+    showSolution()
+}
+function showSolution(){
+    console.log("showing the solution")
+}
